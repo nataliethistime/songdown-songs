@@ -8,6 +8,7 @@ Syntax
 
 The syntax of a song is designed to be as simple as possible.
 
+## Verses
 Every song is comprised of verses. Each verse has a heading, something inside it and an end marker. Like this:
 
 ```
@@ -34,3 +35,39 @@ C                Am                      Em           G
 Somewhere deep inside, something's got a hold on you
 ---
 ```
+
+## Goto's
+
+Once you have made a few verses, what happens if you want to go back and play one of them again?
+You use the `->` sign!
+
+If you have a sone which looks like this:
+```
+Verse 1:
+Play some stuff here.
+---
+
+Verse 2:
+Play some more stuff here.
+---
+```
+
+Then you can go back to `Verse 1` like this:
+
+```
+-> Verse 1
+```
+
+You cna play `Verse 2` twice like this:
+
+```
+-> Verse 2 x2
+```
+
+You can also add extra instructions, like this:
+
+```
+-> Verse 1 x2 (softly fist time, build second time)
+```
+
+In the last example, there are three parts: the name (`Verse 1`), the number of times to repeat (`x2`) and the extra instructions (`(softly fist time, build second time)`). These sections can be in any order, as long as the `x` is before the number (for repeats) and the extra instructions are in brackets.
