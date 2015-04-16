@@ -1,10 +1,8 @@
-songdown-songs
-==============
+# songdown-songs
 
-This repository contains all of the source files for the songs found on the Songdown site. Everything is in the public domain because I'm not a lawyer (or anyone of that level of qualification) who understands these things.
+This repository contains all of the source files for the songs found on the Songdown site.
 
-Syntax
-======
+# Syntax
 
 The syntax of a song is designed to be as simple as possible.
 
@@ -71,3 +69,7 @@ You can also add extra instructions, like this:
 ```
 
 In the last example, there are three parts: the name (`Verse 1`), the number of times to repeat (`x2`) and the extra instructions (`(softly fist time, build second time)`). These sections can be in any order, as long as the `x` is before the number (for repeats) and the extra instructions are in brackets.
+
+# License
+
+This project is made with love, under the MIT license, by [@1vasari](https://twitter.com/1vasari). :heart:
