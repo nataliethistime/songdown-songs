@@ -1,0 +1,26 @@
+{
+  "name": "songdown-songs",
+  "version": "0.0.0",
+  "description": "Repository containing all of the source files for the songs found on the Songdown site.",
+  "private": true,
+  "main": "packager.js",
+  "scripts": {
+    "build": "node packager.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://1vasari@github.com/1vasari/songdown-songs"
+  },
+  "author": "Nathan McCallum <onevasari@gmail.com> (https://github.com/1vasari)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1vasari/songdown-songs/issues"
+  },
+  "homepage": "http://songdown.herokuapp.com",
+  "dependencies": {
+    "glob": "5.0.14",
+    "gray-matter": "2.0.1",
+    "lodash": "3.10.0",
+    "normalize-newline": "1.0.2"
+  }
+}
