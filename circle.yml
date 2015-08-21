@@ -10,9 +10,5 @@ deployment:
       - git config --global user.name 1vasari
       - git status
       - git add songs.json
-      - git commit -m "Build songs.json (`date '+%F %T %Z'`) [ci skip]" || true
-      # The text [ci skip] helps us to
-      # avoid re-building the project again
-      # by CircleCI commnit/push
-      # The || true for ignore commit/push error
-      - git push origin master || true
+      - git commit -m "CircleCI build of songs.json [ci skip]"
+      - git push origin master
