@@ -2,6 +2,8 @@
 
 This repository contains all of the source files for the songs found on the Songdown site.
 
+[![Circle CI](https://circleci.com/gh/1vasari/songdown-songs/tree/master.svg?style=svg)](https://circleci.com/gh/1vasari/songdown-songs/tree/master)
+
 # Syntax
 
 The syntax of a song is designed to be as simple as possible.
