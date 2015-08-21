@@ -10,5 +10,5 @@ deployment:
       - git config --global user.name 1vasari
       - git status
       - git add songs.json
-      - git commit -m "CircleCI build of songs.json [ci skip]"
+      - git commit -m "[CircleCI][ci skip] build songs.json"
       - git push origin master
