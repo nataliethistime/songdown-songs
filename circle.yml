@@ -1,6 +1,6 @@
 test:
   override:
-    - node packager.js
+    - npm run build
 
 deployment:
   production:
