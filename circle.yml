@@ -12,3 +12,7 @@ deployment:
       # Use '|| true' to stop the build erroring out when there were no changes.
       - git add songs.json && git commit -m "[CircleCI][ci skip] build songs.json" || true
       - git push origin master
+
+machine:
+  node:
+    version: 5.0.0
