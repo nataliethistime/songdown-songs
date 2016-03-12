@@ -9,6 +9,12 @@
     }
   },
   "Bethel": {
+    "Jesus We Love You": {
+      "artist": "Bethel",
+      "name": "Jesus We Love You",
+      "source": "\nVerse 1:\nE\nOld things have passed away\n  B\nYour love has stayed the same\n            E                  B\nYour constant grace remains the cornerstone\nB\nThings that we thought were dead\nB\nAre breathing in life again\nB\nYou cause your Son to shine on darkest nights\n>>>\n\nPre Chorus:\nF#                                G#M\nFor all that you’ve done we will pour out our love\n       E             F#\nThis will be our anthem song\n>>>\n\nChorus:\nE\nJesus we love you\n      B\nOh how we love you\nE                          B\nYou are the one our hearts adore\n>>>\n\nInterlude:\nG#m F#/A# E\nOur hearts adore\n>>>\n\nVerse 2-\nThe hopeless have found their hope\nThe orphans now have a home\nAll that was lost has found its place in you\nYou lift our weary head\nYou make us strong instead\nYou took these rags and made us beautiful\n>>>\n\nBridge:\nE\nOur affection, our devotion\nB\npoured out on the feet of Jesus\nE\nOur affection, our devotion\nB\npoured out on the feet of Jesus\nC#m\nOur affection, our devotion\nB/D#\npoured out on the feet of Jesus\nE\nOur affection, our devotion\nF#\npoured out on the feet of Jesus\n>>>\n",
+      "key": "E"
+    },
     "This is Amazing Grace": {
       "artist": "Bethel",
       "name": "This is Amazing Grace",
@@ -115,6 +121,13 @@
       "key": "G"
     }
   },
+  "Citipointe": {
+    "Presense, Power, Glory": {
+      "artist": "Citipointe",
+      "name": "Presense, Power, Glory",
+      "source": "Introduction:\nG D Em C\nG D Em C\n>>>\n\nVerse:\n  Em\nStrip me back\n    C\nOf all my pride\n      G      D\nMy possesions\n\n     Em\nTill all I want\n     C\nAnd all I seek\n         G       D\nIs Your presence\n>>>\n\nPre-Chorus:\n         C\nAwake in me\n             Em\na fire and a zeal\n                D\na fire full of love\n             C\nHeaven open up\n>>>\n\nChorus:\n   G\nCome and fill this place\n          D\nWith Your mercy with Your grace\n      Em          C\nHoly Spirit, Holy Spirit\n      G\nWith power and with Love\n        D\nAll consuming fire come\n      Em          C\nHoly Spirit, Holy Spirit\n>>>\n\n-> Introduction\n-> Verse\n-> Chorus (x2)\n-> Introduction\n\nBridge (x4):\nG\n We want more of Your presence\nD\n We want more of Your power\nEm\n We want more of Your glory\nC\n We want to know You\n>>>\n\n-> Chorus\n-> Bridge (x2)\n"
+    }
+  },
   "CityAlight": {
     "The Love of the Father": {
       "artist": "CityAlight",
@@ -151,7 +164,7 @@
       "artist": "Darlene Zschech",
       "name": "In Jesus' Name",
       "source": "\nVerse 1:\n                G                 Em7\nGod is fighting for us, God is on our side\n        Bm                   D\nHe has overcome, Yes he has overcome\n                 G                  Em7\nWe will not be shaken, we will not be moved\n              D\nJesus you are here\n>>>\n\nVerse 2-\nCarrying our burdens, covering our shame\nHe has overcome, Yes he has overcome\nWe will not be shaken, we will not be moved\nJesus You are here\n>>>\n\nChorus:\n        A                G\nI will live, I will not die\n      D                   Bm              C\nThe resurrection power of Christ alive in me\n         G              D\nAnd I am free in Jesus Name\n       A                G\nI will live, I will not die\n        D                    Bm           C\nI will declare and lift You high, Christ revealed\n         G               D     C    D\nAnd I am healed in Jesus Name\n>>>\n\nInstrumental+\nG A Bm F#m/C# D\nG A Bm D/F#\nG A Bm D/F#\nG A Bm D/F#\n>>>\n\nBridge (x2):\n                 G                        A\nGod is fighting for us, pushing back the darkness\n                 Bm                    D/F#\nLighting up the Kingdom that cannot be shaken\n                 G               A\nIn the Name of Jesus, enemy's defeated\n             Bm                      D\nAnd we will shout it out, shout it out\n>>>\n\n-> Chorus\n",
-      "key": "G"
+      "key": "D"
     }
   },
   "David Bowie": {
@@ -299,6 +312,11 @@
       "key": "G",
       "youtube": "https://www.youtube.com/watch?v=mZGzu6oI9b4"
     },
+    "I Will Exalt You": {
+      "artist": "Hillsong",
+      "name": "I Will Exalt You",
+      "source": "Verse:\nG            C\nI will  exalt  You\nG            C\nI will exalt   You\nG            C\nI will exalt   You\n  D         G\nYou are  my   God\n>>>\n\nChorus:\n D\nMy hiding place\n Am7\nMy safe refuge\n D/F#                G\nMy treasure, Lord, You are\n D\nMy friend and King\nAm7 G/B  C\nAnointed One\n   Em     D\nMost ho-o-o-ly\n>>>\n\nBridge:\nG                 C\nBecause You're with me\nG                 C\nBecause You're with me\nG                 C\nBecause You're with me\nD            G\nI will  not    fear\n>>>\n"
+    },
     "Lord of Lords": {
       "artist": "Hillsong",
       "name": "Lord of Lords",
@@ -351,7 +369,8 @@
     "This I Believe": {
       "artist": "Hillsong",
       "name": "This I Believe",
-      "source": "Intro-\nC  Em  D  G/B\nC  Em  D  G/B\n>>>\n\nVerse 1:\nC              Em\nOur Father everlasting\nD            G/B  C\nThe all creating One\n        D    G/B\nGod almighty\nC                  Em\nThrough Your Holy Spirit\nD                 G/B   C\nConceiving Christ the Son\n           D\nJesus our Savior\n>>>\n\nChorus:\nG                    Am\nI believe in God our Father\nC                       D\nI believe in Christ the Son\nEm\nI believe in the Holy Spirit\nC                    G\nOur God is three in one\n                      Am\nI believe in the resurrection\nC                    D\nThat we will rise again\nEm                    C      D     (G)\nFor I believe in the name of Jesus\n>>>\n\n-> Intro\n\nVerse 2-\nOur Judge and our Defender\nSuffered and crucified\nForgiveness is in You\nDescended into darkness\nYou rose in glorious life\nForever seated high\n>>>\n\n-> Chorus\n\nBridge: (x2):\n  C   Em      D   G/B\nI believe in You\n    C           Em    D   G/B\nI believe You rose again\n    C           D               G\nI believe that Jesus Christ is Lord\n>>>\n\n-> Chorus 2x\n\nEnding (x2):\nEm                    C      D     G\nFor I believe in the name of Jesus\n"
+      "source": "\nIntro-\nC  Em  D  G/B\nC  Em  D  G/B\n>>>\n\nVerse 1:\nC              Em\nOur Father everlasting\nD            G/B  C\nThe all creating One\n        D    G/B\nGod almighty\nC                  Em\nThrough Your Holy Spirit\nD                 G/B   C\nConceiving Christ the Son\n           D\nJesus our Savior\n>>>\n\nChorus:\nG                    Am\nI believe in God our Father\nC                       D\nI believe in Christ the Son\nEm\nI believe in the Holy Spirit\nC                    G\nOur God is three in one\n                      Am\nI believe in the resurrection\nC                    D\nThat we will rise again\nEm                    C      D     (G)\nFor I believe in the name of Jesus\n>>>\n\n-> Intro\n\nVerse 2-\nOur Judge and our Defender\nSuffered and crucified\nForgiveness is in You\nDescended into darkness\nYou rose in glorious life\nForever seated high\n>>>\n\n-> Chorus\n\nBridge: (x2):\n  C   Em      D   G/B\nI believe in You\n    C           Em    D   G/B\nI believe You rose again\n    C           D               G\nI believe that Jesus Christ is Lord\n>>>\n\n-> Chorus 2x\n\nEnding (x2):\nEm                    C      D     G\nFor I believe in the name of Jesus\n",
+      "key": "G"
     },
     "What The Lord Has Done For Me": {
       "artist": "Hillsong",
@@ -394,6 +413,11 @@
     }
   },
   "Israel Houghton": {
+    "Trading My Sorrows": {
+      "artist": "Israel Houghton",
+      "name": "Trading My Sorrows",
+      "source": "Verse 1:\nG     C2             Em   D\n I'm trading my sorrows\nG     C2             Em   D\n I'm trading my shame\n G     C2              Em\n Im laying them down\n             D             G   C2  Em  D\n For the joy of the Lord\nG     C2             Em   D\n I'm trading my sickness\n G     C2             Em   D\n I'm trading my pain\nG     C2                Em\n I'm laying them down\n             D             G   C2  Em  D\n For the joy of the Lord\n>>>\n\nChorus:\n           G              C2          Em       D\nWe say yes Lord yes Lord yes yes Lord\n G            C2        Em           D\nyes Lord yes Lord yes yes Lord\n G            C2         Em       D      G    C2  Em D\nyes Lord yes Lord yes yes Lord  Amen\n>>>\n\nVerse 2-\nI am pressed but not crushed\nPersecuted not abandoned\nStruck down but not destroyed\nI am blessed beyond the curse\nFor his promise will endure\nThat his joy's ganna be my strength\nThough the sorrow may last for the night\nHis joy comes in the morning\n>>>\n"
+    },
     "You Are Good": {
       "artist": "Israel Houghton",
       "name": "You Are Good",
